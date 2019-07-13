@@ -1,0 +1,4 @@
+#Sun Jul 14 00:29:46 WAT 2019
+base.0=/Users/revelation/ReactProject/korna-app/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
